@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "734014106447",
+    "firebase_url": "https://inway-2021-default-rtdb.firebaseio.com",
+    "project_id": "inway-2021",
+    "storage_bucket": "inway-2021.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734014106447:android:b9f48cf447bcd37515333a",
+        "android_client_info": {
+          "package_name": "com.uisrael.inway"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "734014106447-d6n2va1mobpam7884uejupensa04ug1l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.uisrael.inway",
+            "certificate_hash": "23e73cb2026ccc6f4b7f7337d819a6cf9dbf20e9"
+          }
+        },
+        {
+          "client_id": "734014106447-37tdugcfaudr9ro1ctjte9adjl5dggri.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcAnodCJ3rzgTX94bCPe8yN0zNPKFTVR8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "734014106447-37tdugcfaudr9ro1ctjte9adjl5dggri.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
